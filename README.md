@@ -37,7 +37,7 @@ As shown in the circuit diagram we need only 3 Arduino terminal pins, pin 8 is f
 
 ### PROGRAM FOR STIMULATION: 
 ```c
-Name: silambarasan.K
+Developed By: silambarasan.K
 Roll  no: 212221230101
 
 const int motorpin1 = 5;
